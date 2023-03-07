@@ -1,6 +1,6 @@
 # Lab - JS Events To Do list
 
-In this lab you are tasked with creating a page that manages a To-Do list. There is some start code, with the bare bones of an HTML file containing a small form and somewhere to start a todo list.
+In this lab we were tasked with creating a page that manages a To-Do list. There was some start code, with the bare bones of an HTML file containing a small form and somewhere to start a todo list.
 
 Open `lab_jsevents_start_code` folder in VSCode. Open `index.html` in your browser so you can see the page and test the code you are about to write. You will notice that a `script.js` has already been created for you and that this file is loaded into your `index.html` via an existing `<script>` tag.
 
