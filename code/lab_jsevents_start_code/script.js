@@ -64,5 +64,5 @@ function deleteTask(element) {
 taskForm.addEventListener('submit', addTask);
 
 dateButton.addEventListener("click", showDate);
-deleteButton.addEventListener('click', deleteTask);
+deleteButton.addEventListener("click", deleteTask);
 
