@@ -4,6 +4,8 @@ In this lab we were tasked with creating a page that manages a To-Do list. There
 
 Open `lab_jsevents_start_code` folder in VSCode. Open `index.html` in your browser so you can see the page and test the code you are about to write. You will notice that a `script.js` has already been created for you and that this file is loaded into your `index.html` via an existing `<script>` tag.
 
+Use the address to access: `http://127.0.0.1:5501/code/lab_jsevents_start_code/?`
+
 ## MVP
 - Write some Javascript that will allow your form to take an input and add it to the to-do list below. Some things you might need to do:
     - grab the `Enter` button in your `<form>` and add an event listener to it
