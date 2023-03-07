@@ -6,7 +6,7 @@ Open `lab_jsevents_start_code` folder in VSCode. Open `index.html` in your brows
 
 Use the address to access: `http://127.0.0.1:5501/code/lab_jsevents_start_code/?`
 
-## MVP
+## MVP 🎯
 - Write some Javascript that will allow your form to take an input and add it to the to-do list below. Some things you might need to do:
     - grab the `Enter` button in your `<form>` and add an event listener to it
     - when the event occurs (`'click'`), the listener should fire a method that grabs the input, creates an `<li>` element and attaches it to the existing `<ul>`
@@ -16,7 +16,7 @@ Use the address to access: `http://127.0.0.1:5501/code/lab_jsevents_start_code/?
 
 - Create a `Show Date` button that displays today's date when you click it. This button can be added directly to `index.html`. (hint: `Date()` returns today's date and time) 
 
-## Extensions
+## Extensions 📚
 - Vanilla JS tends to be pretty messy. Go back and refactor your code. You should be able to encapsulate some code in sub-functions, which could be re-used or called elsewhere. Try to make your code as readable and tidy as possible.
 - Allow a user to mark an item as complete. 
 - Grey-out completed items and move them to a 'completed' list on your page.
