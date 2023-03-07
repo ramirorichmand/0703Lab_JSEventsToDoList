@@ -36,7 +36,7 @@ const addTask = (event) => {
     };
     task.appendChild(itemComplete);
 
-    // Make delete button
+    // Make a delete button
     const deleteButton = document.createElement("button");
     deleteButton.setAttribute('id', `${numOfTask}-delete`);
     const buttonText = document.createTextNode("delete");
@@ -65,3 +65,4 @@ taskForm.addEventListener('submit', addTask);
 
 dateButton.addEventListener("click", showDate);
 deleteButton.addEventListener('click', deleteTask);
+
